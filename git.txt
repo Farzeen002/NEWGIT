@@ -1,0 +1,28 @@
+git config --global user.name "your name"
+
+git config --global user.email "youremail@gmail.com"
+
+To check email
+
+git config --global user.email
+
+To edit 
+git config --global --edit
+
+to escape
+esc :wq
+
+make a new directory
+mkdir filename
+
+open a directory
+cd filename
+
+initialize git
+git init
+
+status
+git status
+
+
+
